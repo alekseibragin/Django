@@ -1,6 +1,6 @@
 # Django Library
 
-Tutorial "Local Library" website written in Django.
+"Library" website written in Django.
 
 ## Overview
 
